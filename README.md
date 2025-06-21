@@ -6,7 +6,7 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Programming, and Mathematics.
+- 🎓 &nbsp; Studying Computer Science, Programming.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 - ✍️ &nbsp; Watching universe and trying out the latest design trends as hobbies/side hustles.
 
