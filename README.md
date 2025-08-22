@@ -8,19 +8,14 @@
 
 </div>
 
-<img align="right" alt="Coding Animation" width="300" style="margin-left: 20px;" src="https://media1.tenor.com/m/BWk4_NBCmtgAAAAd/one-piece.gif">
-
 ## 🚀 About Me
 
 > *"Let your wild ideas dance with lines of code"*
 
-- 🔭 **Exploring** cutting-edge technologies and building innovative software solutions
-- 🎓 **Studying** Computer Science with focus on modern programming paradigms  
-- 🌱 **Passionate** about Full-Stack Development and Artificial Intelligence
-- 🎨 **Creative** in design thinking and always experimenting with latest UI/UX trends
-- 🌌 **Philosophy**: Turning complex problems into elegant solutions
-
-<br clear="right"/>
+-  **Exploring** cutting-edge technologies and building innovative software solutions
+-  **Studying** Computer Science with focus on modern programming paradigms  
+-  **Passionate** about Full-Stack Development and Artificial Intelligence
+  
 
 ## 🛠️ Technology Stack
 
@@ -62,7 +57,7 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">I'm always excited to collaborate on innovative projects and discuss new opportunities!</p>
 
@@ -83,21 +78,13 @@
 
 ---
 
-### 💭 Philosophy
-
 <p align="center">
   <em>"Being defeated is often a temporary condition. Giving up is what makes it permanent."</em><br/>
   <strong>— Marilyn vos Savant</strong>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/727qo8TxQjcAAAAd/jujutsu-kaisen-gojo-satoru.gif" width="350" style="border-radius: 10px;"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing!" alt="Footer Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=42&fontColor=ffffff&animation=twinkling"/>
-</p>
+<div align="center">
+  <img src="https://media1.tenor.com/m/-CtIGKS6BJYAAAAd/shanks-one-piece.gif" width="850" style="border-radius: 20px; margin: 20px 0;"/>
+  
+</div>
