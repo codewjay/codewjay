@@ -1,51 +1,58 @@
 <div align="center">
-  
-# 👋 Hello, I'm Jay
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewjay&label=Profile%20Views&color=gradient&style=flat-square&labelColor=1a1b27&color=70a5fd" alt="Profile Views" />
-</p>
-
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
+    </p>
 </div>
 
-## 🚀 About Me
+<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
-> *"Let your wild ideas dance with lines of code"*
+Jay here! I'm a Software Engineer from India, currently studying in LPU. I primarily do frontend development. I don't have
+anything special, but I hope to be able to change that in the future.
 
--  **Exploring** cutting-edge technologies and building innovative software solutions
--  **Studying** Computer Science with focus on modern programming paradigms  
--  **Passionate** about Full-Stack Development and Artificial Intelligence
-  
+My hobbies include watching Anime, Manga, Music!
 
-## 🛠️ Technology Stack
+<h2 align="center"> About me </h2>
 
-### Languages & Frameworks
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" style="margin: 8px;"/>
+
+
+<img align="left" src="https://i.pinimg.com/736x/64/62/fd/6462fdbd1f11261143440287c2716331.jpg" width="130px"/>
+
+```csharp
+My Profile
+-------------------------------
+Username: codewjay
+WhoamI: Normal People.
+Languages: C, Python ,JavaScript & Python.
+Pronouns: He-Him.
+Location: Punjab, India.
+Hobbies: Watching Anime, Read Manga, and Listening Music
+```
+
+<div>
+
+<br>
+<br>
+
+</div>
+<br>
+
+<div>
+<h2 align="center"> Knowledge </h2>
+</div>
+<div align = "center">
+<p align = "justify">Interests and Passions. <br></p>
+<p align = "center">
+     <a href="https://skillicons.dev/icons?i=html,js,css">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=html,js,css,python,c,cpp,mysql,git,pr,postgres,&perline=5" alt="My Skills"/> 
+    </a>
 </p>
+</div>
+<br>
 
-### Databases & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="40" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" style="margin: 8px;"/>
-</p>
-
-### Design & Media
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="40" style="margin: 8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="35" style="margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" height="40" style="margin: 8px;"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
+<div>
+<h2 align="center"> GitHub Analytics</h2>
+</div>
+<div align="center">
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codewjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="Jay's GitHub Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=codewjay&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
@@ -54,37 +61,36 @@
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewjay&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
+</div>
+<br>
 
----
 
-##  Let's Connect
 
-<p align="center">I'm always excited to collaborate on innovative projects and discuss new opportunities!</p>
+<h2 align="center">Contact</h2>
 
-<p align="center">
-  <a href="mailto:jaykrxo@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="45" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jay001/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="45" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.instagram.com/7ayyyyyyyyy/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="45" style="margin: 10px;"/>
-  </a>
-  <a href="https://github.com/codewjay" target="_blank">
-    <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" height="45" style="margin: 10px;"/>
-  </a>
-</p>
 
----
+<a href="https://github.com/codewjay"><img align="right" width="100" src="https://i.pinimg.com/1200x/08/cf/dd/08cfddc9d99f30675f868ca8cf6c5718.jpg" /></a>
+**Please contact me on LinkedIn for a quick response:** [Jay](https://www.linkedin.com/in/jay001/)
 
-<p align="center">
-  <em>"Being defeated is often a temporary condition. Giving up is what makes it permanent."</em><br/>
-  <strong>— Marilyn vos Savant</strong>
-</p>
-
+**You can also email me here:** [jaykrxo@gmail.com](mailto:jaykrxo@gmail.com)
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/-CtIGKS6BJYAAAAd/shanks-one-piece.gif" width="850" style="border-radius: 20px; margin: 20px 0;"/>
-  
+    <a href="https://www.linkedin.com/in/jay001/">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/7ayyyyyyyyy">
+        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+    </a>
+    <a href="mailto:jaykrxo@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+    </a>
 </div>
+
+<div>
+    <h2 align="center">Thank you for reading</h2>
+    <div align="center">
+        <img src="https://media1.tenor.com/m/-CtIGKS6BJYAAAAd/shanks-one-piece.gif" width="500"/>
+    </div>
+</div>
+<br> 
+<br>
