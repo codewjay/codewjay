@@ -1,15 +1,14 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
+        <img align="center" alt="count" src="https://count.getloli.com/@codewjay?name=codewjay&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
     </p>
 </div>
 
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
-Jay here! I'm a Software Engineer from India, currently studying in LPU. I primarily do frontend development. I don't have
-anything special, but I hope to be able to change that in the future.
+Jay here! I'm a Software Engineer from India, currently pursuing my B.Tech in Computer Science and Engineering at LPU. I primarily do frontend development. I am curious and eager to innovate. I want to create effective digital solutions while continuously improving my skills and knowledge.
 
-My hobbies include watching Anime, Manga, Music!
+My hobbies include watching Anime, Reading Manga, Music, and Working Out!
 
 <h2 align="center"> About me </h2>
 
@@ -20,12 +19,13 @@ My hobbies include watching Anime, Manga, Music!
 ```csharp
 My Profile
 -------------------------------
-Username: codewjay
-WhoamI: Normal People.
-Languages: C, Python ,JavaScript & Python.
-Pronouns: He-Him.
+Name: Jay
+Education: B.Tech CSE
+Languages: C, Python & JavaScript.
+Learning: C++ & DSA
 Location: Punjab, India.
-Hobbies: Watching Anime, Read Manga, and Listening Music
+Hobbies: Watching Anime, Read Manga, Listening Music and Working Out.
+
 ```
 
 <div>
@@ -87,7 +87,16 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 </div>
 
 <div>
-    <h2 align="center">Thank you for reading</h2>
+<h2 align="center">Quote</h2>
+</div>
+<div align="center">
+    <em>"Being defeated is often a temporary condition. Giving up is what makes it permanent."</em><br/>
+    <strong>— Marilyn vos Savant</strong>
+</div>
+<br>
+
+<div>
+    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
         <img src="https://media1.tenor.com/m/-CtIGKS6BJYAAAAd/shanks-one-piece.gif" width="500"/>
     </div>
